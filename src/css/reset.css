@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  font-family: "Be Vietnam Pro";
+}
+
+a {
+  text-decoration: none;
+}/*# sourceMappingURL=reset.css.map */
